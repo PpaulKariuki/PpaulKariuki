@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PpaulKariuki
+- 👋 Hi, I’m @PaulKariuki
 - 👀 I’m interested in ...App Development 
 - 🌱 I’m currently learning ... Python Programming Language 
 - 💞️ I’m looking to collaborate on ... Anyone who is convesant in Python Development 
